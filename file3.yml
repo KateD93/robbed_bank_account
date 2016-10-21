@@ -1,9 +1,9 @@
 Politicians:
-  Lyndon B. Johnson: Scotch & Soda
-  Queen Elizabeth II: Gin & Dubonet
-  Richard Nixon: [Rum & Coke, Gin Martini]
-  Margaret Thatcher: Whiskey & Soda
+  Barack Obama: !!python/unicode 'Lead'
   Gerald Ford: Gin & Tonic
+  Lyndon B. Johnson: Scotch & Soda
+  Margaret Thatcher: Whiskey & Soda
   Napoleon Bonaparte: Absinthe
-  Barack Obama: Beer
+  Queen Elizabeth II: Gin & Dubonet
+  Richard Nixon: !!python/unicode 'Book'
   Winston Churchill: Whiskey
